@@ -1,0 +1,18 @@
+{
+  "name": "moroccan-news-cli",
+  "version": "1.0.0",
+  "description": "A CLI application to fetch and display current Moroccan news.",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
